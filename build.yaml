@@ -15,3 +15,5 @@ include:
     shield: swoop_left
   - board: nrfmicro_13
     shield: swoop_right
+  - board: nrfmicro_13
+    shield: settings_reset
