@@ -7,7 +7,9 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
+#include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/outputs.h>
+#include <dt-bindings/zmk/ext_power.h>
 
 #define DEFAULT 0
 #define NUMBER  1
@@ -124,8 +126,8 @@ modcp: mod_copy {
    &kp ESC AS(Q) AS(W) AS(E) AS(R) AS(T)           AS(Y) AS(U) AS(I)     AS(O)   AS(P)  AS(MINUS) 
    &kp ENTER AS(A) AS(S) AS(D) AS(F) AS(G)     AS(H) AS(J) AS(K)     AS(L)  AS(SEMI)    AS(SQT) 
    &kp CAPS  AS(Z) AS(X) AS(C) AS(V) AS(B)                 AS(N) AS(M) AS(COMMA) AS(DOT) AS(FSLH)   AS(BSLH) 
- &kp LC(C) &kp LC(V) &kp BSPC &kp SPACE     &lt 2 LEFT  &lt 1 RIGHT   AS(LBKT)  AS(RBKT)      
- &kp LALT  &kp LALT &mt LCTRL  LSHFT  &lt 1  DEL     &kp LGUI   AS(EQUAL)   &mo 3   &mo 3    
+ &kp LC(C) &kp LC(V) &kp BSPC &kp SPACE     &lt 2 LEFT  &lt 1 RIGHT    AS(LBKT)   AS(RBKT)      
+ &kp LALT  &kp LALT &mt LCTRL  LSHFT  &lt 1  DEL     &kp LGUI   AS(EQUAL)   &mo 3   &mo 3        
             >;
         };  
 
