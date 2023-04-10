@@ -4,7 +4,7 @@
 if SHIELD_SWOOP_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "swoop"
+    default "sw"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
