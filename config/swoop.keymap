@@ -122,7 +122,7 @@ modcp: mod_copy {
        default_layer {
             label = "DEFAULT";
             bindings = <
-   &kp ESC AS(Q) AS(W) AS(E) AS(R) AS(T)           AS(Y) AS(U) AS(I)     AS(O)   AS(P)  AS(MINUS) 
+   &lt 3 ESC AS(Q) AS(W) AS(E) AS(R) AS(T)           AS(Y) AS(U) AS(I)     AS(O)   AS(P)  AS(MINUS) 
    &kp ENTER AS(A) AS(S) AS(D) AS(F) AS(G)     AS(H) AS(J) AS(K)     AS(L)  AS(SEMI)    AS(SQT) 
    &kp CAPS  AS(Z) AS(X) AS(C) AS(V) AS(B)                 AS(N) AS(M) AS(COMMA) AS(DOT) AS(FSLH)   AS(BSLH) 
  &kp LC(C) &kp LC(V) &kp BSPC &kp SPACE     &lt 2 LEFT  &lt 1 RIGHT    AS(LBKT)   AS(RBKT)      
