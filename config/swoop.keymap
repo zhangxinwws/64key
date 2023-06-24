@@ -94,7 +94,7 @@
  &lt 2 TAB   &kp Q         &kp W         &kp E       &kp R                 &kp T             &kp Y              &kp U          &kp I                 &kp O          &kp P  &lt 2 EQUAL
 &kp LSHIFT   &kp A         &kp S         &kp D       &kp F                 &kp G             &kp H              &kp J          &kp K                 &kp L  &kp BACKSLASH   &kp RSHIFT
  &kp LCTRL   &kp Z         &kp X         &kp C       &kp V                 &kp B             &kp N              &kp M  &kp SEMICOLON               &kp SQT       &kp FSLH      &kp DEL
-                    &kp LEFT_WIN  &kp LEFT_ALT   &kp SPACE          &kp CAPSLOCK     &kp BACKSPACE          &kp ENTER      &kp COMMA            &kp KP_DOT
+                    &kp LEFT_WIN  &kp LEFT_ALT   &kp SPACE          &kp CAPSLOCK     &kp BACKSPACE          &kp ENTER      &kp COMMA            &kp PERIOD
                          &kp END         &none  &kp INSERT  &mt LGUI PRINTSCREEN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET          &none  &kp NON_US_BACKSLASH
             >;
         };
